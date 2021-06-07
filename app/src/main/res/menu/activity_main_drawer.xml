@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+
+    <group android:checkableBehavior="single">
+        <item android:title="@string/texto86">
+        <menu>
+        <item
+            android:id="@+id/gestosverdes"
+            android:icon="@drawable/ic_baseline_screen_rotation_24"
+            android:title="@string/texto87" />
+        </menu>
+        </item>
+        <item android:title="@string/texto85">
+
+        <menu>
+        <item
+            android:id="@+id/fotos2"
+            android:icon="@android:drawable/btn_star_big_on"
+            android:title="@string/menu_gallery" />
+            <item
+                android:id="@+id/mujeres"
+                android:icon="@android:drawable/ic_menu_view"
+                android:title="@string/texto83" />
+        </menu>
+        </item>
+
+    </group>
+
+    <item android:title="@string/texto84">
+        <menu>
+            <item
+                android:id="@+id/mapsRojoo"
+                android:icon="@android:drawable/ic_menu_mapmode"
+                android:title="@string/texto18" />
+            <item
+                android:id="@+id/mapsAmarilloo"
+                android:icon="@android:drawable/ic_menu_mapmode"
+                android:title="@string/texto19" />
+            <item
+                android:id="@+id/mapsVerdee"
+                android:icon="@android:drawable/ic_menu_mapmode"
+                android:title="@string/texto20" />
+        </menu>
+    </item>
+
+</menu>
+

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GestosAmarillos">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/regresar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="#eed4bc"
+                android:text="@string/texto65"
+                android:textColor="#6E3500">
+
+            </Button>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="35dp"
+                android:hint="@string/texto60"
+                android:textAlignment="center"
+                android:textColor="#4d4239"
+                android:textSize="30dp"
+                android:textStyle="bold"
+
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:ignore="MissingConstraints" />
+
+
+            <LinearLayout
+                android:layout_width="712dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/colorrosa"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="99dp"
+                    android:layout_height="88dp"
+                    app:srcCompat="@drawable/sms2" />
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="74dp"
+                    android:layout_gravity="center_vertical|right"
+                    android:layout_weight="1"
+                    android:justificationMode="inter_word"
+                    android:text="@string/texto61" />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="200dp"
+                android:layout_height="15dp">
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="712dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/colorrosa"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="99dp"
+                    android:layout_height="match_parent"
+                    app:srcCompat="@drawable/llamadatelefonica" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|right"
+                    android:layout_weight="1"
+                    android:justificationMode="inter_word"
+                    android:text="@string/texto62" />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="200dp"
+
+                android:layout_height="15dp">
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="712dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/colorrosa"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="114dp"
+                    android:layout_height="87dp"
+                    app:srcCompat="@drawable/correol" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_vertical|right"
+                    android:layout_weight="1"
+                    android:justificationMode="inter_word"
+                    android:text="@string/texto63" />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="200dp"
+                android:layout_height="15dp">
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="712dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/colorrosa"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="110dp"
+                    android:layout_height="97dp"
+                    app:srcCompat="@drawable/radar" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_vertical|right"
+                    android:layout_weight="1"
+                    android:justificationMode="inter_word"
+                    android:text="@string/texto64" />
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".UnoActivity"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="10">
+        <Button
+            android:id="@+id/regresar"
+            android:layout_width="wrap_content"
+            android:backgroundTint="#eed4bc"
+            android:text="@string/texto65"
+            android:textSize="30dp"
+            android:textColor="#6E3500"
+            android:layout_height="wrap_content">
+
+        </Button>
+
+        <RelativeLayout
+            android:layout_width="923dp"
+            android:layout_height="0dp"
+            android:layout_weight="2">
+
+            <TextView
+                android:id="@+id/textGrid"
+                android:layout_width="310dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="21dp"
+                android:layout_marginEnd="152dp"
+                android:hint="@string/texto58"
+                android:textColor="@color/colorPrimary"
+                android:textSize="66dp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+        <GridLayout
+            android:id="@+id/mainGriddddt"
+            android:layout_width="match_parent"
+            android:layout_height="164dp"
+            android:layout_weight="8"
+            android:alignmentMode="alignMargins"
+            android:columnCount="2"
+            android:columnOrderPreserved="false"
+            android:padding="14dp"
+            android:rowCount="3">
+            <androidx.cardview.widget.CardView
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_row="0"
+                android:layout_rowWeight="1"
+                android:layout_column="0"
+                android:layout_columnWeight="1"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                android:layout_marginBottom="60dp"
+                app:cardCornerRadius="8dp"
+                app:cardElevation="8dp"
+                app:cardBackgroundColor="@color/colorRosa"
+                >
+
+                <LinearLayout
+                    android:layout_width="362dp"
+                    android:layout_height="471dp"
+                    android:layout_gravity="center_horizontal|center_vertical"
+                    android:layout_margin="16dp"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="285dp"
+                        android:layout_height="360dp"
+                        android:layout_gravity="center_horizontal"
+                        android:src="@drawable/tocar" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="@string/texto58"
+                        android:textAlignment="center"
+                        android:textColor="@android:color/holo_blue_dark"
+                        android:textSize="36dp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                android:layout_marginBottom="60dp"
+                app:cardCornerRadius="8dp"
+                app:cardBackgroundColor="@color/colorRosa"
+                app:cardElevation="8dp">
+                <LinearLayout
+                    android:layout_width="362dp"
+                    android:layout_height="471dp"
+                    android:layout_gravity="center_horizontal|center_vertical"
+                    android:layout_margin="16dp"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="291dp"
+                        android:layout_height="355dp"
+                        android:layout_gravity="center_horizontal"
+                        android:src="@drawable/sensorbiologico" />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:hint="@string/texto59"
+                        android:textAlignment="center"
+                        android:textColor="@android:color/holo_blue_dark"
+                        android:textSize="36dp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                android:layout_marginBottom="60dp"
+                app:cardCornerRadius="8dp"
+                app:cardBackgroundColor="@color/colorRosa"
+                app:cardElevation="8dp">
+                <LinearLayout
+                    android:layout_width="362dp"
+                    android:layout_height="471dp"
+                    android:layout_gravity="center_horizontal|center_vertical"
+                    android:layout_margin="16dp"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="257dp"
+                        android:layout_height="339dp"
+                        android:layout_gravity="center_horizontal"
+                        android:src="@drawable/instru" />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:hint="@string/texto57"
+                        android:textAlignment="center"
+                        android:textColor="@android:color/holo_blue_dark"
+                        android:textSize="36dp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+            <!-- Column 2 -->
+            <androidx.cardview.widget.CardView
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                android:layout_marginBottom="60dp"
+                app:cardCornerRadius="8dp"
+                app:cardBackgroundColor="@color/colorRosa"
+                app:cardElevation="8dp">
+                <LinearLayout
+                    android:layout_width="362dp"
+                    android:layout_height="471dp"
+                    android:layout_gravity="center_horizontal|center_vertical"
+                    android:layout_margin="16dp"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="250dp"
+                        android:layout_height="349dp"
+                        android:layout_gravity="center_horizontal"
+                        android:src="@drawable/instru" />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:hint="@string/texto60"
+                        android:textAlignment="center"
+                        android:textColor="@android:color/holo_blue_dark"
+                        android:textSize="36dp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+        </GridLayout>
+
+    </LinearLayout>
+</RelativeLayout>

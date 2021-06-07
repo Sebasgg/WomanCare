@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/fotos"
+        android:title="@string/texto75"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:orderInCategory="5"
+        app:showAsAction="never"
+
+        />
+    <item
+        android:id="@+id/informacion"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:iconTint="#000000"
+        android:orderInCategory="5"
+        app:showAsAction="never"
+        android:title="@string/texto44" />
+    <item android:id="@+id/action_settings"
+        android:title="@string/texto46"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:orderInCategory="5"
+        app:showAsAction="never"/>
+
+</menu>

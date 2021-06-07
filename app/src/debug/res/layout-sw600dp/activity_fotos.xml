@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#86FDEAFF"
+    tools:context=".Fotos">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <Button
+                android:id="@+id/regresar"
+                android:layout_width="wrap_content"
+                android:backgroundTint="#eed4bc"
+                android:text="@string/texto65"
+                android:textColor="#6E3500"
+                android:layout_height="wrap_content">
+
+            </Button>
+
+            <ImageView
+                android:layout_width="811dp"
+                android:layout_height="457dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/a" />
+
+
+            <ImageView
+                android:layout_width="858dp"
+                android:layout_height="485dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/b" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="458dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/c" />
+
+            <ImageView
+                android:layout_width="850dp"
+                android:layout_height="530dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/d" />
+
+
+            <ImageView
+                android:layout_width="831dp"
+                android:layout_height="440dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/e" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="506dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/g" />
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

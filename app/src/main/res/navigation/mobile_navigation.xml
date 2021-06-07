@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.womancare.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.example.womancare.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.example.womancare.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+    <activity
+        android:id="@+id/gestosverdes"
+        android:name="com.example.womancare.Gestosverdes"
+        android:label="activity_gestosverdes"
+        tools:layout="@layout/activity_gestosverdes" />
+    <activity
+        android:id="@+id/mapsRojoo"
+        android:name="com.example.womancare.MapsRojoo"
+        android:label="activity_maps_rojoo"
+        tools:layout="@layout/activity_maps_rojoo" />
+    <activity
+        android:id="@+id/mapsVerdee"
+        android:name="com.example.womancare.MapsVerdee"
+        android:label="activity_maps_verdee"
+        tools:layout="@layout/activity_maps_verdee" />
+    <activity
+        android:id="@+id/mapsAmarilloo"
+        android:name="com.example.womancare.MapsAmarilloo"
+        android:label="activity_main_amarillo"
+        tools:layout="@layout/activity_main_amarillo" />
+    <activity
+        android:id="@+id/fotos2"
+        android:name="com.example.womancare.Fotos"
+        android:label="activity_fotos"
+        tools:layout="@layout/activity_fotos" />
+    <activity
+        android:id="@+id/mujeres"
+        android:name="com.example.womancare.Mujeres"
+        android:label="activity_mujeres"
+        tools:layout="@layout/activity_mujeres" />
+</navigation>

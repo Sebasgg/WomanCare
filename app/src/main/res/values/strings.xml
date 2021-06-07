@@ -1,0 +1,152 @@
+<resources>
+    <string name="app_name">WomanCare</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configuración</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Galeria</string>
+    <string name="menu_slideshow">Diapositivas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titulo1">En Aguascalientes mujeres sufren secuestcros, extorsiones
+        y corrupción de menores: SESNSP</string>
+    <string name="texto1">" La entidad muestra la quinta tasa más alta de secuestros por cada 100 mil habitantes de México 12 menores de edad han sido corrompidas o inducidas a la prostitución, al exhibicionismo, o a cometer un delito   En la entidad se reportan, de enero a octubre, cuatro presuntas víctimas mujeres de secuestro, lo cual si bien no aparenta ser una cifra tan alarmante como la del Estado de México, donde se registraron 40, posiciona a Aguascalientes como la quinta entidad con la mayor tasa de víctimas mujeres de secuestro de todo el país por cada 100 mil mujeres; en este año se calculan .55 secuestros por cada 100 mil mujeres ."</string>
+    <string name="texto2">Leslie,31 años</string>
+    <string name="texto4">Maria, 22 años</string>
+    <string name="texto5">Durante ocho años María estuvo casada con un policía federal adicto a las drogas y alcohólico. Ambos compartían la posesión de una propiedad en Zacatecas, pero éste falsificó su firma y la vendió. ¿Que cómo la vendió? hubo muchas tranzas y hasta el notario se prestó recuerda. María sólo se dio cuenta cuando quiso pagar el predial y su propiedad ya no aparecía en el sistema. En ese momento decidió demandar a su marido ante la Policía Federal de la Ciudad de México pero ésta no procedió. Nunca me pelaron al contrario, a él lo protegieron explica. Y fue en ese momento en el que iniciaron las amenazas de muerte, me dijo que él de la cárcel salía, pero que yo del hoyo no Ante tal situación, María decidió, aunque no sabía nada de inglés, marcharse a vivir a Estados Unidos. Hoy lucha por regularizar sus trámites con migración para su residencia y así tener más derechos en los Estados Unidos. Su hija, que también se encuentra con ella, quiere trabajar en el FBI o la Interpol para evitar en la medida de lo posible que más personas sufran injusticias de esta índole.</string>
+    <string name="texto6">María del Rosario Saucedo Pizarro, 36 años</string>
+    <string name="texto3">Leslie regresaba de cenar con su novio cuando un taxi se les atravesó y de éste se bajaron dos hombres armados. A su chico lo bajaron del coche apuntándole con una pistola en la cabeza y lo pasaron al asiento trasero. El segundo hombre se sentó en el asiento del conductor mientras Leslie permanecía aterrorizada en el lugar del copiloto Nos iban amenazando todo el rato porque nos pasearon durante mucho tiempo. No recuerdo exactamente cuánto tiempo fue porque perdí la noción del tiempo explica. Durante el secuestro le pidieron tanto a Leslie como a su pareja que permanecieran con los ojos cerrados en todo momento y mientras a su novio lo amenazaban de golpearlo con la pistola, a Leslie el conductor le tocaba la pierna y le decía que todo iba a estar bien si cooperaba.
+Después de preguntarles en numerosas ocasiones por teléfonos celulares y por tarjetas de crédito, los secuestradores los llevaron a una calle cerrada y oscura y los hicieron bajar del coche. Sólo le devolvieron a Leslie su mochila porque era del colegio y se llevaron el dinero, la cena que habían pedido para llevar y el coche.
+"</string>
+    <string name="texto7">"Madre de un niño de cinco años de edad, María vivía con su pareja Luis Alberto Lozada García, de 25 años, en una vivienda sencilla ubicada en la región peruana de Piura, donde ambos habían iniciado una familia.
+La ilusión poco a poco llegó a su fin con discusiones y peleas que dieron paso a una ruptura definitiva de la relación por parte de María.
+Luis no aceptó esta nueva realidad e insistía en una nueva oportunidad, pero ella se mantenía firme. María lo había denunciado en varias ocasiones por agresiones en su contra.
+El peligro era latente.
+
+"</string>
+    <string name="texto8">"Ana Lizbeth Polina Ramírez, 8 años"</string>
+    <string name="texto9">"Los padres de Anita, como le decían cariñosamente, recuerdan lo mucho que le gustaba jugar en el parque y comer helados. Ella era la luz de sus ojos.
+Ana acompañó a su madre al trabajo el pasado 15 de julio en la ciudad mexicana de Benito Juárez, estado de Nuevo León, cuando fue raptada por un desconocido que se acercó para conversar.
+Los padres de la pequeña se preocuparon al no hallarla en los alrededores y llamaron a emergencias para iniciar la búsqueda. Cada minuto contaba y ellos solo querían nada más que la regrese, que nos la regrese.
+ Tras 48 horas de angustias y desesperación, la familia de Anita recibió la esperada llamada de las autoridades, pero las noticias no eran alentadoras. Un cuerpo en descomposición, envuelto en sábanas, fue hallado en un terreno baldío.
+  El presunto autor fue identificado como Juan Fernando N, un expolicía, de 37 años de edad, que tenía dos órdenes de aprehensión pendientes por ejecutar y antecedentes penales por delitos sexuales. Ana fue una víctima más de este homicida, quien fue finalmente detenido días después del crimen.
+            "</string>
+    <string name="texto10">Escannear</string>
+    <string name="texto11">Revisa si estas en lugar seguro</string>
+    <string name="texto12">Usuario</string>
+    <string name="texto13">Contraseña</string>
+    <string name="texto14">Iniciar</string>
+    <string name="texto15">Registrar</string>
+    <string name="texto16">Tienda</string>
+    <string name="texto17">Galeria</string>
+    <string name="texto18"> Alto Riesgo</string>
+    <string name="texto19"> Mediano Riesgo</string>
+    <string name="texto20">Bajo Riesgo</string>
+    <string name="texto21">Soy más fuerte que el miedo</string>
+    <string name="texto22">Registro De Usuario</string>
+    <string name="texto23"> Nombre </string>
+    <string name="texto24">Usuario</string>
+    <string name="texto25">Correo Electronico</string>
+    <string name="texto26">Registrar</string>
+    <string name="texto27">Páginas de Ayuda</string>
+    <string name="texto28">Página de Ayuda</string>
+    <string name="texto29">Página de Ayuda</string>
+    <string name="texto30">Página de Ayuda</string>
+    <string name="texto31">Página de Ayuda</string>
+    <string name="texto32">Policia Federal</string>
+    <string name="texto33">Psicólogo</string>
+    <string name="texto34">Bienvenida a WomanCare</string>
+    <string name="texto35">Nombre</string>
+    <string name="texto36">Usuario</string>
+    <string name="texto37">Contraseña</string>
+    <string name="texto38">Edad</string>
+    <string name="texto39">Nombre del Usuario</string>
+    <string name="texto40">Mapa por Zonas</string>
+    <string name="texto41">Páginas de Ayuda</string>
+    <string name="texto42">Chats</string>
+    <string name="texto43">Ayuda</string>
+    <string name="texto44">Escáner</string>
+    <string name="texto45">Fotos</string>
+    <string name="texto46">Historias</string>
+    <string name="texto47">Cerrar Sesión</string>
+    <string name="texto48">Zonas</string>
+    <string name="texto49">Contraseña</string>
+    <string name="texto50">Correo Electronico</string>
+    <string name="texto51">Entrar</string>
+    <string name="texto52">Ya Tienes Cuenta</string>
+    <string name="texto53">Registrarse</string>
+    <string name="texto54">Registrar Usuario</string>
+    <string name="texto55">Nombre de Usuario</string>
+    <string name="texto56">Eliminar Cuenta</string>
+    <string name="texto57">Instrucciones para Gestos </string>
+    <string name="texto58">Gestos</string>
+    <string name="texto59">Pizarra</string>
+
+
+    <string name="texto60">Instrucciones para pizarra</string>
+    <string name="texto61">Al dar un clic a la pantalla se abrira automaticamente el mensaje de texto para que te puedas mantener en contacto con la persona que sea de tu confianza de esta manera te podras sentir segura</string>
+    <string name="texto62"> El móvil debe estar desbloqueado de esta manera mantenen presionada la pantalla de tu celular, para que sea realizada la llamada de emergencia. Sirve para contactar asistencia médica, policía o bomberos</string>
+    <string name="texto63"> Al deslizar hacia la parte de abajo, este realizará la acción de poder mandar un email sin problema</string>
+    <string name="texto64">Al dar solo un toque en la imagen enviará o presentara la zona de ubicacion para saber donde te encuentras de esta manera podras ser rastreada, de esta manera te puedes sentir segura</string>
+    <string name="texto65">regresar</string>
+    <string name="texto66">Te ha Gustado la historia</string>
+    <string name="texto67">SACUDE TU TELEFONO</string>
+    <string name="texto68">Agita tu teléfono varias veces para activar la función de masajes emergentes los cuales mandaran un mensaje con la dirección de actual a un contacto que previamente registres. </string>
+    <string name="texto75">Perfil</string>
+    <string name="texto76">Comentarios</string>
+    <string name="texto77">Enviar</string>
+    <string name="my_text">Escribe el Mensaje </string>
+
+    <string name="title_activity_maps_verdee">Map</string>
+    <string name="title_activity_maps_amarilloo">Map</string>
+    <string name="title_activity_maps_rojoo">Map</string>
+
+
+    ///
+    correo
+
+    <string name="texto_main">Nube Colectiva</string>
+    <string name="texto_ec">Enviar Correo</string>
+    <string name="texto_correo">Enviar a:</string>
+    <string name="texto_asunto">Asunto:</string>
+    <string name="texto_mensaje">Mensaje:</string>
+    <string name="texto_btn_enviar">Enviar</string>
+
+
+
+
+    /// nuevo
+
+    <string name="texto80">Nacida en Mingora, Pakistán el 12 de julio de 1997, Malala creció en el Swat Valley de Khyber Pakhtunkhwa en el noroeste de Pakistán. Desde muy temprana edad, la educación fue parte de su vida, pues su padre, Ziauddin Yousafzai, es un diplomático paquistaní y activista social comprometido, que ha establecido una serie de escuelas privadas y ha hecho campaña por los derechos a la educación.</string>
+    <string name="texto81">Para 2008 su padre dirigía una escuela de niñas en su pueblo; sin embargo, ese año, los talibanes tomaron el control de Swat Valley. prohibiendo “muchas cosas, como poseer un televisor y tocar música, e impusieron castigos severos para quienes desafiaron sus órdenes. Y dijeron que las niñas ya no podían ir a la escuela“, según palabras de Malala.</string>
+    <string name="texto82">Bajo el seudónimo “Gul Makai” (flor de maíz en urdu), publicó su primer blog el 3 de enero de 2009 y cubrió las actividades militares en Swat Valley, incluyendo la destrucción de más de 100 escuelas para niñas y el cierre de la suya. Para marzo de 2012, sus publicaciones estaban en boca de todos y su identidad fue revelada.</string>
+    <string name="texto83">conocer mas </string>
+    <string name="texto84">Zonas </string>
+    <string name="texto85">Mujeres</string>
+    <string name="texto86">Ayuda</string>
+    <string name="texto87">pánico</string>
+    <string name="texto88">Maria Salomea Skłodowska-Curie, conocida como Marie Curie, nació el 7 de noviembre de 1867 en Varsovia, Polonia. Fue una física, matemática y química pionera en el campo de la radiactividad. Marie no solamente fue la primera mujer, sino que la primera persona en recibir dos Premios Nobel en distintas especialidades: Física (1903) y Química (1911), y la primera mujer en hacer clases en la Universidad de París. Marie se casó con el científico Pierre Curie y fue madre de quien recibiría más adelante también un Premio Nobel en Química, Irène Joliot-Curie.</string>
+    <string name="texto89">Motivada por el reciente descubrimiento de Antoine Henri Becquerel, que demostró que las sales de uranio emitían rayos de naturaleza desconocida, sin la necesidad de ser expuestas a la luz, Marie Curie investigó más allá este tema y descubrió que los compuestos formados por el torio también emitían rayos de forma espontánea. A este fenómeno le llamaron radioactividad.</string>
+    <string name="texto90">Como la radiactividad que generaban algunas muestras era más fuerte de lo que se esperaba, Marie y Pierre sospecharon que había otra sustancia radiactiva más potente que el uranio y el torio, y en 1898 dieron a conocer públicamente que habían descubierto un nuevo elemento: el polonio. Unos meses después anunciaron su nuevo hallazgo: el radio.</string>
+    <string name="texto91">El año pasado se celebró el centenario de Hedy Lamarr, la “mujer más bella de la historia del cine” y la inventora del sistema de comunicaciones denominado “técnica de transmisión en el espectro ensanchado” en el que se basan todas las tecnologías inalámbricas de que disponemos en la actualidad. Actriz, ingeniera de telecomunicaciones e inventora cuyo glamour eclipsó sus otras facetas.</string>
+    <string name="texto92">Hedy Lamarr nació en Viena el 9 de noviembre de 1914 como Hedwig Eva Maria Kiesler. Era la única hija de un banquero de Lemberg y un pianista de Budapest que, aunque de origen judío, se había criado como católico. En la escuela se destacó por su brillantez intelectual, siendo considerada por sus profesores como superdotada. En casa, creció escuchando las interpretaciones de su madre en su piano y ella misma, desde muy joven, tocó este instrumento a la perfección. Compleja e inquieta, abandonó los estudios de ingeniería, decidida a cumplir su sueño de ser actriz. Su descubridor, empresario y director de teatro y cine Max Reinhardt, la llevó a Berlín para formarla en actuación, tras lo cual regresaron a Viena para empezar a trabajar en la industria cinematográfica.</string>
+    <string name="texto93">Se cumplen 111 años del nacimiento de Simone de Beauvoir, una figura clave para el feminismo desde su obra El Segundo Sexo, considerada una especie de Biblia en esta materia.</string>
+    <string name="texto94">Se trata de una escritora, profesora y filósofa que se caracterizó por defender los derechos humanos y es precursora del feminismo tal y como lo conocemos hoy en día. Además, su obra El Segundo Sexo se considera como una de las más importantes del feminismo ya que rompió con la vertiente clásica.</string>
+    <string name="texto95">En este ensayo, la autora critica la opresión a la que es sometida la mujer por parte del sexo masculino y por cómo está organizada la sociedad. Además, estudia temas como la corrección del matrimonio o cómo predomina la visión masculina como la general.
+
+Simone mantuvo una relación sentimental con Jean-Paul Sartre, que fue muy controvertida en la época. Ambos decidieron no casarse y no tener hijos, además de mantener relaciones abiertas con terceras personas. La propia de Beauvoir calificó de éxito total esta relación.</string>
+    <string name="texto96">Magdalena Carmen Frida Kahlo; Coyoacán, México, 1907 - id., 1954 Pintora mexicana. Aunque se movió en el ambiente de los grandes muralistas mexicanos de su tiempo y compartió sus ideales, Frida Kahlo creó una pintura absolutamente personal, ingenua y profundamente metafórica al mismo tiempo, derivada de su exaltada sensibilidad y de varios acontecimientos que marcaron su vida.</string>
+    <string name="texto97">A los dieciocho años Frida Kahlo sufrió un gravísimo accidente que la obligó a una larga convalecencia, durante la cual aprendió a pintar, y que influyó con toda probabilidad en la formación del complejo mundo psicológico que se refleja en sus obras. En 1929 contrajo matrimonio con el muralista Diego Rivera; tres años después sufrió un aborto que afectó en lo más hondo su delicada sensibilidad y le inspiró dos de sus obras más valoradas: Henry Ford Hospital y Frida y el aborto, cuya compleja simbología se conoce por las explicaciones de la propia pintora.</string>
+    <string name="texto98">También son muy apreciados sus autorretratos, asimismo de compleja interpretación: Autorretrato con monos o Las dos Fridas. Cuando André Breton conoció la obra de Frida Kahlo, afirmó que la mexicana era una surrealista espontánea y la invitó a exponer en Nueva York y París, ciudad esta última en la que no tuvo una gran acogida. Frida nunca se sintió cerca del surrealismo, y al final de sus días rechazó abiertamente que su creación artística fuera encuadrada en esa tendencia.</string>
+    <string name="texto99">ROSA PARKS, LA MUJER NEGRA CUYO DESAFÍO A LAS LEYES SEGREGACIONISTAS FUE LA CHISPA QUE ENCENDIÓ EL MOVIMIENTO QUE CAMBIÓ LA FAZ DE LOS ESTADOS UNIDOS
+
+ </string>
+    <string name="texto100">Rosa Parks era una activista por los derechos civiles cuya negativa a ceder su asiento a un pasajero blanco en un autobús segregado condujo al boicot de autobuses de Montgomery, Alabama (EE. UU.) en diciembre de 1955. Su desafío y valentía impulsó la lucha a nivel nacional para terminar con la segregación racial de las instalaciones públicas.</string>
+    <string name="texto101">Parks nació Rosa Louise McCauley el 4 de febrero de 1913 en Tuskegee, Alabama. Sus padres, James y Leona McCauley, se separaron cuando Parks tenía dos años. La madre de Parks se trasladó con su familia a Pine Level, Alabama, para vivir con sus padres, Rose y Sylvester Edwards. Ambos abuelos eran ex esclavos y fuertes defensores de la igualdad racial.</string>
+    <string name="texto102">Durante su infancia Parks vivió sus primeras experiencias con la discriminación racial y el activismo por la igualdad racial. En una de ellas vio cómo su abuelo se situaba frente a su casa con una escopeta mientras los miembros del Ku Klux Klan marchaban calle abajo.</string>
+    <string name="texto103"></string>
+</resources>

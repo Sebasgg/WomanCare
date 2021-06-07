@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string name="app_name">WomanCare</string>
+        <string name="menu_slideshow">Slideshow</string>
+        <string name="menu_gallery">Gallery</string>
+        <string name="menu_home">Home</string>
+        <string name="action_settings">Settings</string>
+        <string name="hello_blank_fragment">Hello blank fragment</string>
+        <string name="titulo1">In Aguascalientes, women suffer kidnappings, extortion and corruption of minors: SESNSP</string>
+        <string name="texto1">The entity shows the fifth highest rate of kidnappings per 100,000 inhabitants of Mexico 12 minors have been corrupted or led into prostitution, exhibitionism, or committing a crime In the entity, four alleged female kidnapping victims are reported from January to October, which although it does not appear to be as alarming a figure as that of the State of Mexico, where 40 were registered, positions Aguascalientes as the fifth entity with the highest rate of female victims of kidnapping in the entire country for every 100,000 women; this year, 55 kidnappings are calculated for every 100,000 women</string>
+        <string name="texto2">Leslie , 31 years</string>
+        <string name="texto4">Maria,41 years</string>
+        <string name="texto3">Leslie was returning from dinner with her boyfriend when a taxi ran into them and two armed men got out. His boy was taken out of the car with a gun pointed at his head and put into the back seat. The second man sat in the drivers seat while Leslie remained terrified in the passenger seat. They were threatening us all the time because they walked us for a long time. I dont remember exactly how long it was because I lost track of time, he explains. During the kidnapping, they asked both Leslie and her partner to keep their eyes closed at all times and while her boyfriend was threatened to hit him with the gun, the driver touched Leslies leg and told him that everything would be fine. fine if he cooperated.
+After asking them numerous times for cell phones and credit cards, the kidnappers took them to a closed and dark street and made them get out of the car. They only returned her backpack to Leslie because she was from school and they took the money, the dinner they had ordered to take away, and the car. </string>
+        <string name="texto5">For eight years, Maria was married to a drug addict and alcoholic federal police officer. Both shared ownership of a property in Zacatecas, but he forged his signature and sold it. How did he sell it? there were many bargains and even the notary lent himself a reminder. María only realized when she wanted to pay the property and her property no longer appeared in the system. At that time, she decided to sue her husband before the Federal Police of Mexico City, but they did not proceed. They never fought me, on the contrary, they protected him, he explains. And it was at that moment that the death threats began, he told me that he was leaving the prison, but that I was not out of the hole. Faced with such a situation, María decided, although she did not know any English, to go live in the United States. Today she struggles to regularize her immigration procedures for her residence and thus have more rights in the United States. Her daughter, who is also with her, wants to work for the FBI or Interpol to avoid as much as possible that more people suffer injustices of this kind.</string>
+        <string name="texto6">María del Rosario Saucedo Pizarro, 36 years</string>
+        <string name="texto7">"Mother of a five-year-old boy, María lived with her partner Luis Alberto Lozada García, 25, in a simple house located in the Peruvian region of Piura, where they had both started a family.
+The illusion little by little came to an end with arguments and fights that led to a definitive breakdown of the relationship by Maria.
+Luis did not accept this new reality and insisted on a new opportunity, but she remained firm. María had denounced him on several occasions for attacks against her.
+The danger was latent.
+Jealousy was Luis's excuse to end Maria's life on the night of November 20. Another argument, another fight and unjustified claims that led him to take a knife and stab her more than ten times.
+María begged, her screams were heard throughout the area and the neighbors tried to help, but her efforts did not prevent the tragedy that was coming. Luis tried to commit suicide minutes later, however, the Police avoided him and now he is in a hospital, where he is in custody and waiting to pay for the heinous crime.
+"</string>
+        <string name="texto8">Ana Lizbeth Polina Ramírez, 8 years</string>
+        <string name="texto9">"Anita's parents, as they affectionately called her, remember how much she liked to play in the park and eat ice cream. She was the light in his eyes.
+Ana accompanied her mother to work on July 15 in the Mexican city of Benito Juárez, Nuevo León state, when she was abducted by a stranger who came to talk.
+The little girl's parents worried about her when they couldn't find her in the surroundings and called the emergency department to start the search. She every minute she counted and they just wanted nothing more than to return it from her, to return it to us.
+After 48 hours of anguish and despair, Anita's family received the long-awaited call from the authorities, but the news was not encouraging. A decomposing body, wrapped in sheets, was found in a vacant lot.
+The alleged perpetrator was identified as Juan Fernando N, a 37-year-old ex-police officer, who had two arrest warrants pending execution and a criminal record for sexual crimes. Ana was one more victim of this murderer, who was finally arrested days after the crime.
+"</string>
+
+        <string name="texto10">Scan</string>
+        <string name="texto11">Check if you are in a safe place</string>
+        <string name="texto12">User</string>
+        <string name="texto13">Password</string>
+        <string name="texto14">Star</string>
+        <string name="texto15">to register</string>
+        <string name="texto16">Store</string>
+        <string name="texto17">Gallery</string>
+        <string name="texto18">High risk area</string>
+        <string name="texto19">Medium risk zone</string>
+        <string name="texto20">Low risk zone</string>
+        <string name="texto21">I am stronger than fear</string>
+        <string name="texto22">User register</string>
+        <string name="texto23">Name</string>
+        <string name="texto24">User</string>
+        <string name="texto25">Email</string>
+        <string name="texto26">Register</string>
+        <string name="texto27">Help Pages</string>
+        <string name="texto28">Help Page</string>
+        <string name="texto29">Help Page</string>
+        <string name="texto30">Help Page</string>
+        <string name="texto31">Help Page</string>
+        <string name="texto32">Federal police</string>
+        <string name="texto33">Psychologist</string>
+        <string name="texto34">Welcome to WomanCare</string>
+        <string name="texto35">Name</string>
+        <string name="texto36">User</string>
+        <string name="texto37">Password</string>
+        <string name="texto38">Age</string>
+        <string name="texto39">User name</string>
+        <string name="texto40">Map by Zones</string>
+        <string name="texto41">Help Pages</string>
+        <string name="texto42">Chats</string>
+        <string name="texto43">Help</string>
+        <string name="texto44">Scanner</string>
+        <string name="texto45">Pictures</string>
+        <string name="texto46">Stories</string>
+        <string name="texto47">Sing off</string>
+        <string name="texto48">Zones</string>
+        <string name="texto49">Password</string>
+        <string name="texto50">Email</string>
+        <string name="texto51">Login</string>
+        <string name="texto52">you already have an account</string>
+        <string name="texto53">Check in</string>
+        <string name="texto54">Register User</string>
+        <string name="texto55">User name</string>
+        <string name="texto56">Delete account</string>
+        <string name="texto57">Gesture instructions</string>
+        <string name="texto58">Gestures</string>
+        <string name="texto59">White board</string>
+
+
+        <string name="texto60">whiteboard instructions</string>
+        <string name="texto61">When you click on the screen, the text message will automatically open so you can stay in touch with the person you trust that you can feel safe this way.</string>
+        <string name="texto62">The mobile must be unlocked in this way, hold down the screen of your cell phone, for the emergency call to be made. It is used to contact medical assistance, police or firefighters</string>
+        <string name="texto63">By sliding to the bottom, it will perform the action of being able to send an email without problem</string>
+        <string name="texto64">By just tapping on the image, it will send or present the location area to know where you are.This way you can be tracked, this way you can feel safe.</string>
+        <string name="texto65">to return</string>
+        <string name="texto67">SHAKE YOUR PHONE</string>
+        <string name="texto68">Shake your phone several times to activate the pop-up massage function, which will send a message with the current address to a contact that you previously registered.</string>
+        <string name="texto66">You liked the story</string>
+        <string name="texto75">Profile</string>
+        <string name="texto76">Comments</string>
+        <string name="texto77">Send</string>
+        <string name="my_text">Escribe el Mensaje </string>
+        ///
+        correo
+
+        <string name="texto_main">Collective Cloud</string>
+        <string name="texto_ec">Send mail</string>
+        <string name="texto_correo">Send to:</string>
+        <string name="texto_asunto">Affair:</string>
+        <string name="texto_mensaje">Message:</string>
+        <string name="texto_btn_enviar">Send</string>
+
+        <string name="navigation_drawer_open">Open navigation drawer</string>
+        <string name="navigation_drawer_close">Close navigation drawer</string>
+        <string name="nav_header_title">Android Studio</string>
+        <string name="nav_header_subtitle">android.studio@android.com</string>
+        <string name="nav_header_desc">Navigation header</string>
+
+
+
+
+        <string name="texto80">Born in Mingora, Pakistan on July 12, 1997, Malala grew up in the Swat Valley of Khyber Pakhtunkhwa in northwestern Pakistan. From an early age, education was part of her life, as her father, Ziauddin Yousafzai, is a Pakistani diplomat and committed social activist, who has established a number of private schools and campaigned for rights to freedom. education.</string>
+        <string name="texto81">By 2008 her father ran a girls school in her village; however, that year, the Taliban took control of Swat Valley. prohibiting “many things, like owning a television and playing music, and imposed severe punishments for those who defied his orders. And they said that the girls could no longer go to school, in Malala s words.</string>
+        <string name="texto82">Under the pseudonym "Gul Makai" (corn flower in Urdu), she posted her first blog on January 3, 2009, covering military activities in Swat Valley, including the destruction of more than 100 girls schools and the closure of her own. . By March 2012, her posts were on everyone s lips and her identity was revealed.</string>
+        <string name="texto83">know more</string>
+        <string name="texto84">Zones</string>
+        <string name="texto85">Women</string>
+        <string name="texto86">Help</string>
+        <string name="texto87">panic</string>
+        <string name="texto88">Maria Salomea Skłodowska-Curie, known as Marie Curie, was born on November 7, 1867 in Warsaw, Poland. She was a pioneering physicist, mathematician and chemist in the field of radioactivity. Marie was not only the first woman, but the first person to receive two Nobel Prizes in different specialties: Physics (1903) and Chemistry (1911), and the first woman to take classes at the University of Paris. Marie married the scientist Pierre Curie and was the mother of whom she would later also receive a Nobel Prize in Chemistry, Irène Joliot-Curie.</string>
+        <string name="texto89">Motivated by the recent discovery of Antoine Henri Becquerel, who showed that uranium salts emit rays of an unknown nature, without the need to be exposed to light, Marie Curie further investigated this topic and discovered that the compounds formed by thorium also they emitted rays spontaneously. They called this phenomenon radioactivity.</string>
+        <string name="texto90">As the radioactivity generated by some samples was stronger than expected, Marie and Pierre suspected that there was another radioactive substance more powerful than uranium and thorium, and in 1898 they publicly announced that they had discovered a new element: polonium. . A few months later they announced their new find: radio.</string>
+        <string name="texto91">Last year was the centenary of Hedy Lamarr, the “most beautiful woman in the history of cinema” and the inventor of the communication system called “spread spectrum transmission technique” on which all wireless technologies are based. we currently have. Actress, telecommunications engineer, and inventor whose glamor overshadowed other facets of her.</string>
+        <string name="texto92">Hedy Lamarr nació en Viena el 9 de noviembre de 1914 como Hedwig Eva Maria Kiesler. Fue la única hija de un banquero de Lemberg  y una pianista de Budapest que, aún siendo de origen judío, se habían criado en el catolicismo. En el colegio, destacó por su brillantez intelectual siendo considerada por sus profesores como superdotada. En casa, creció escuchando las interpretaciones de su madre al piano y ella misma, desde pequeña, tocó este instrumento a la perfección. Compleja e inquieta, abandonó los estudios de ingeniería, decidida a cumplir el sueño de ser actriz. Su descubridor, el empresario y director de teatro y cine Max Reinhardt, la llevó a Berlín para que se formase en interpretación, tras lo cual, regresaron a Viena para empezar a trabajar en la industria del cine.</string>
+        <string name="texto93">It is 111 years since the birth of Simone de Beauvoir, a key figure for feminism since her work The Second Sex, considered a kind of Bible in this matter</string>
+        <string name="texto94">She is a writer, teacher and philosopher who was characterized by defending human rights and is a precursor of feminism as we know it today. In addition, her work The Second Sex is considered one of the most important of feminism since it broke with the classical aspect</string>
+        <string name="texto95">In this essay, the author criticizes the oppression to which women are subjected by the male sex and how society is organized. In addition, she studies topics such as the correction of marriage or how the masculine vision predominates as the general one.</string>
+
+        <string name="texto96">Magdalena Carmen Frida Kahlo; Coyoacán, México, 1907 - id., 1954 Mexican painter. Although she moved in the environment of the great Mexican muralists of her time and shared her ideals, Frida Kahlo created an absolutely personal, naive and deeply metaphorical painting at the same time, derived from her exalted sensitivity and from various events that marked the her life.</string>
+        <string name="texto97">At the age of eighteen, Frida Kahlo suffered a very serious accident that forced her to a long convalescence, during which she learned to paint, and which in all probability influenced the formation of the complex psychological world that is reflected in her works. In 1929 she married the muralist Diego Rivera; Three years later, she suffered an abortion that deeply affected her delicate sensitivity and inspired two of her most valued works: Henry Ford Hospital and Frida and Abortion, whose complex symbolism is known from her own explanations. painter.</string>
+        <string name="texto98">His self-portraits, also of complex interpretation, are also highly appreciated: Self-portrait with monkeys or Las dos Fridas. When André Breton learned about Frida Kahlo s work, he affirmed that the Mexican was a spontaneous surrealist and invited her to exhibit in New York and Paris, the latter city in which she did not have a great reception. Frida never felt close to surrealism, and at the end of her days she openly rejected that her artistic creation was framed in that trend.</string>
+        <string name="texto99">ROSA PARKS, THE BLACK WOMAN WHOSE CHALLENGING THE SEGREGATIONAL LAWS WAS THE SPARK THAT IGNITED THE MOVEMENT THAT CHANGED THE FACE OF THE UNITED STATES</string>
+        <string name="texto100">Rosa Parks was a civil rights activist whose refusal to give up her seat to a white passenger on a segregated bus led to the Montgomery, Alabama, USA bus boycott in December 1955. Her defiance and courage fueled the fight. nationwide to end racial segregation of public facilities.</string>
+        <string name="texto101">Parks was born Rosa Louise McCauley on February 4, 1913, in Tuskegee, Alabama. Her parents, James and Leona McCauley, separated when Parks was two years old. Parks mother moved her family to Pine Level, Alabama, to live with her parents, Rose and Sylvester Edwards. Both grandparents were former slaves and strong advocates of racial equality.</string>
+        <string name="texto102">During her childhood, Parks had her first experiences with racial discrimination and activism for racial equality. In one of them he saw his grandfather stand in front of his house with a shotgun while members of the Ku Klux Klan marched down the street.</string>
+        <string name="texto103"></string>
+
+
+
+
+</resources>
